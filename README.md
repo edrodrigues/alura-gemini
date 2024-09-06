@@ -8,4 +8,5 @@ Os cards com uma explicação rápida ficam passando a cada 8 segundos.
 
 Os dados das emendas de 2020 até Agosto de 2024 podem ser visualizados no iFrame do Google Looker Studio. 
 
-### Colabore com esse projeto. Deixe dúvidas, sugestões ou dicas de melhorias como issues.
+### Colabore com esse projeto. 
+Deixe dúvidas, sugestões ou dicas de melhorias como issues nesse repositório.
