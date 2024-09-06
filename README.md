@@ -24,6 +24,11 @@ No arquivo "dados.js" eu inseri as informações que explicam a problemática a 
 
 Também com a ajuda do Gemini eu descobri como inserir uma janela do Looker Data Studio. E foi nesse programa, que também é do Google, que eu analisei e criei visualizações para os dados das emendas parlamentares. 
 
+#### Tecnologias utilizadas: 
+HTML: Estrutura básica da página. 
+CSS: Estilização visual da página. 
+JavaScript: Lógica para a mudança automática dos cards a cada 8 segundos.
+
 #### Melhorias futuras: 
 - Inserir mais visualizações com dados mais recentes.
 - Incluir quem são os relatores e os beneficiários das emendas (essa informação ainda não é pública, será em breve).
