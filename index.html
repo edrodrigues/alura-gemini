@@ -1,70 +1,59 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
+              <!-- Head -->
 <head>
-  <!-- Metadados do documento -->
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Observatório</title>
-  <!-- Link para o arquivo de estilos CSS -->
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Observatório das Emendas Parlamentares</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
+            <!-- Header -->
+    <header>
+        <h1>Observatório das Emendas Parlamentares</h1>
+    </header>
+            <!-- Main Section -->
+    <main>
+        <section>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <h2>Entendendo o Problema</h2>
+        </section>
 
-  <!-- Cabeçalho do site -->
-  <header>
-    <h1>Observatório das Emendas Parlamentares</h1>
-    <!-- Navegação principal 
-    <nav>
-      <ul>
-        <li><a href="#entenda-o-problema">Entenda o Problema</a></li>
-        <li><a href="#dados-das-emendas">Dados das Emendas</a></li>
-      </ul>
-    </nav> -->
-  </header>
+        <section id="card" class="card">
+            <!-- O conteúdo do card será inserido aqui pelo JavaScript -->
+        </section>
 
-  <!-- Conteúdo principal do site -->
-  <main>
-    <!-- Seção de entendimento do problema -->
-    <section>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <h2>Entendendo o Problema</h2>
-    </section>
-    <!-- Cards com fatos sobre o problema -->
-    <section class = 'card' id = 'item-card'>
+        <section>
+            <!-- iFrame com os dados do Looker Studio-->
+            <h2>Analise os Dados</h2>
+            <iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/a81d09fb-6f79-43b6-ac96-869ee427dea8/page/p_c64u7zsskd" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
-    </section>
-     
-     </section>
-    <!-- Seção de análise de dados -->
-    <section>
-        <h2>Analise os Dados</h2>
-      <!-- Relatório do Google Data Studio incorporado -->
-      <iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/a81d09fb-6f79-43b6-ac96-869ee427dea8/page/p_c64u7zsskd" frameborder="1" style="border:1" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
-    </section>
-  </main>
+        </section>
+    </main>
+            <!-- Footer -->
+    <footer>
+        <p>2024 - Observatório das Emendas Parlamentares</p>
+        <p>Esse é um projeto Open Source.</p> 
+        <p>Dúvidas, sugestões e colaboração nesse <a href = "https://github.com/edrodrigues/alura-gemini">repositório .</a>
+        <p>Contato: ernj@cin.ufpe.br</p>
+    </footer>
 
-  <!-- Rodapé do site -->
-  <footer>
-    <p>2024 - Observatório das Emendas Parlamentares </p>
-    <p>Esse é um projeto Open Source. Colabore com ele nesse link.</p>
-    <p>Contato: ernj@cin.ufpe.br </p>
-  </footer>
-
-  <!-- Scripts JavaScript -->
-  <script src="dados.js"></script>
-  <script src="app.js"></script>
+    <script src="dados.js"></script>
+    <script src="app.js"></script>
 </body>
 </html>

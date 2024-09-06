@@ -1,3 +1,5 @@
+// Dados inseridos nas cards
+
 let dados = [
     {
         titulo: "A Crise Recente do Governo com as Emendas Parlamentares",
