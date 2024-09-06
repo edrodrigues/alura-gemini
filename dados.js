@@ -1,17 +1,26 @@
 let dados = [
     {
-        titulo: "Rayssa Leal",
-        descricao: 'Rayssa Leal, conhecida como "Fadinha do Skate", é uma skatista brasileira que ganhou a medalha de prata nas Olimpíadas de Tóquio 2020 e a medalha de bronze nas Olimpíadas de Paris 2024.', 
-        link: "https://pt.wikipedia.org/wiki/Rayssa_Leal",
+        titulo: "A Crise Recente do Governo com as Emendas Parlamentares",
+        descricao: 'O Brasil tem vivenciado uma crescente tensão entre o Poder Executivo e o Legislativo, com as emendas parlamentares como um dos principais pontos de atrito. Essa crise tem se intensificado nos últimos anos e traz à tona questões complexas sobre a divisão de poderes, a gestão do orçamento público e a representação política.' , 
     }, 
     {
-        titulo: "Beatriz Souza",
-        descricao: 'Beatriz Souza é uma judoca brasileira que conquistou a medalha de ouro nas Olimpíadas de Paris 2024, tornando-se um dos maiores nomes do judô feminino brasileiro.',
-        link: "https://pt.wikipedia.org/wiki/Beatriz_Souza" // Substitua por um link válido para a página da Wikipedia de Beatriz Souza
-    },
-    {
-        titulo: "Rebeca Andrade",
-        descricao: 'Rebeca Andrade é uma ginasta artística brasileira que conquistou diversas medalhas em competições internacionais, incluindo a medalha de prata no individual geral nas Olimpíadas de Tóquio 2020.',
-        link: "https://pt.wikipedia.org/wiki/Rebeca_Andrade" // Substitua por um link válido para a página da Wikipedia de Rebeca Andrade
-    }
+        titulo: "O que são emendas parlamentares?",
+        descricao: "Emendas parlamentares são alterações propostas pelos parlamentares ao projeto de lei orçamentária anual. Elas destinam recursos para obras, programas e ações específicas, muitas vezes indicadas pelos próprios parlamentares."
+      },
+      {
+        titulo: "A crise em foco",
+        descricao: "A crise atual se intensificou devido ao aumento significativo do valor das emendas parlamentares e à sua crescente impositividade. Isso significa que os parlamentares têm conseguido garantir a execução de suas emendas, mesmo que elas não estejam alinhadas com as prioridades do governo."
+      },
+      {
+        titulo: "Engessamento do Orçamento",
+        descricao: "A grande quantidade de emendas impositivas restringe a capacidade do governo de direcionar recursos para áreas estratégicas, como saúde, educação e infraestrutura."
+      },
+      {
+        titulo: "Desvio de recursos",
+        descricao: "Há o risco de que os recursos destinados às emendas sejam utilizados para fins eleitoreiros ou para beneficiar interesses particulares, em detrimento do interesse público."
+      },
+      {
+        titulo: "Perda de autonomia do Executivo",
+        descricao: "O aumento do poder dos parlamentares na definição do orçamento enfraquece a capacidade do governo de implementar suas políticas."
+      }
 ];
